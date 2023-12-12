@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="favorite" />
+    <string name="content_description_favorite" />
+    <string name="page_title"> Ticket Master </string>
+    <string name="content_description_search" />
+    <string name="more" />
+    <string name="content_description_more" />
+    <string name="content_description_media"> https://img.freepik.com/premium-photo/luxurious-floral-elements-botanical-background-wallpaper-design-prints-3d-render_717906-525.jpg?w=2000
+    </string>
+</resources>
